@@ -1,1 +1,1 @@
-# mile_to_km_converter
+# Mile to kilometer converter, using Tkinter
